@@ -112,23 +112,3 @@ Buat ngecek data beneran tersimpan, caranya:
 <br><br>
 
 ---
-
-## Struktur Folder
-
-```
-project/
-├── main.py
-├── nilaimahasigma.json
-├── README.md
-└── screenshots/
-    ├── menu.png
-    ├── tambah-data.png
-    ├── lihat-data.png
-    ├── ubah-nilai.png
-    ├── hapus-data.png
-    ├── simpan-data.png
-    ├── sebelum-keluar.png
-    ├── setelah-dijalankan-ulang.png
-    └── isi-json.png
-```
-
